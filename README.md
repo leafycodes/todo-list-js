@@ -1,4 +1,4 @@
-# Random Color Generator 🎨
+# Todo List Maker 🎨
 
 A simple web-based todo lsit maker using JavaScript event listeners.
 
