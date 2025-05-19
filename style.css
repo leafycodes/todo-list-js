@@ -1,0 +1,21 @@
+body{
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.fit-in{
+  width: 400px;
+  margin: auto;
+}
+
+ul {
+  padding-left: 20px; 
+  list-style-position: inside; 
+}
+
+.btn-sm-custom {
+  padding: 0.15rem 0.5rem;
+  font-size: 0.75rem;
+}
